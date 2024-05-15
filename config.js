@@ -22,5 +22,5 @@ var config = {
     //          2.T不能丢了
     date: "2022-01-15T13:27:00",
     // 双方的名字
-    names: ["dzc", "gmy"]
+    names: ["dzc", "zsm"]
 }
